@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+$1/bin/detect $1
+
+exit $?
